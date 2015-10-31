@@ -1,2 +1,2 @@
-##Instant Messaging
-#Sends one user's messages to a database then uses constantly refreshing ajax to have it appear on the second user's screen
+## Instant Messaging
+# Sends one user's messages to a database then uses constantly refreshing ajax to have it appear on the second user's screen
